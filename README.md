@@ -1,3 +1,5 @@
+# revised_attrition_model
+
 #employee churn:
 #outlined steps to be followed 
 #1 to obtain data required 
